@@ -1,16 +1,28 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Deepika Guggilla</h2>
 
-<!--
-**deepikaguggilla/deepikaguggilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year B.Tech student in **Computer Science and Engineering (CSE)** at SEAT, Gollapalli, Tirupati (affiliated to JNTUA).
 
-Here are some ideas to get you started:
+💻 I’m passionate about:
+- Python Programming 🐍
+- Web Development (HTML, CSS, JS) 🌐
+- Machine Learning & Artificial Intelligence 🤖
+- Data Science 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Deep Learning (via NPTEL SWAYAM)
+- Git & GitHub
+- Real-world project building
+
+🚀 Projects:
+- 🎶 **Music Genre Classification** using ML (Mini Project)
+- 📊 Data Analysis using Excel (Newton School Workshop)
+- 🔨 More coming soon...
+
+📫 How to reach me:
+- ✉️ Email: [deepika.guggilla20@gmail.com](mailto:deepika.guggilla20@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepika-guggilla-1175b5331)
+- 🌍 Location: Tirupati, Andhra Pradesh, India
+
+---
+
+> "Always learning, always growing 🚀"
